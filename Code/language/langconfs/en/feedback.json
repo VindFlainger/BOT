@@ -1,0 +1,34 @@
+{
+  "ping_fb": "pong",
+  "warn_fb": "User %s get warn\nTotal warns: %d/%d",
+  "unwarn_fb": "User %s was acquitted\nTotal warns: %d/%d",
+  "unban_fb": "Now user %s not in myt",
+  "unmyt_fb": "Now user %s not int myt",
+  "timeout_fb": "Timeout! You can't call function now, wait %d seconds",
+  "ban_fb": "User %s get ban\nUnban: %s\nReason: %s",
+  "myt_fb": "User %s get myt\nUnmyt: %s\nReason: %s",
+  "devote_fb": "User %s was devoted to %s groupe",
+
+
+  "botnotadm_err": "You should get me admin role!",
+  "unknown_err": "Some unknown error was occurred",
+  "nosuchuser_err": "User not found in chat",
+  "timeformat_err": "Incorrect time format",
+  "argsformat_err": "Incorrect command format",
+  "badfilecontent_err": "Error during recognizing your file, pay attention, that you should skip ',' after last element",
+
+
+  "noperm_warn": "You don't have permissions to do this",
+  "nowarns_warn": "This user have no warns",
+  "access_warn": "No access to realize this task, you should be %s",
+  "nobans_warn": "There are no bans on this user",
+  "nomyts_warn": "There are no myts on this user",
+  "nodefevent_warn":"There are no pre-installed applications with such id",
+
+  "warns_hat": "The list of warns for this chat:\n",
+  "bans_hat": "The list of bans for this chat:\n",
+  "myts_hat": "The list of myts for this chat:\n",
+
+  "bans_form": "User %s have ban, unban time %s, with reason: %s",
+  "myts_form": "User %s have myt, unmyt time %s, with reason: %s"
+}

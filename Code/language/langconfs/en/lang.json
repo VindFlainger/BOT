@@ -1,0 +1,17 @@
+{
+  "ping": "-ping",
+  "repeat": "-repeat",
+  "members": "-members",
+  "devote": "-devote",
+  "warn": "-warn",
+  "unwarn": "-unwarn",
+  "ban": "-ban",
+  "unban": "-unban",
+  "myt": "-myt",
+  "unmyt": "-unmyt",
+  "warnlist": "-warns",
+  "banlist": "-bans",
+  "mytlist": "-myts",
+  "addevent": "-addevent",
+  "delevent": "-delevent"
+}
